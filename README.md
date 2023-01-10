@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhildeora&show_icons=true&locale=en&layout=compact" alt="surya101294" /></p>
+
 <h2>🔥My github stats🔥</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nikhildeora&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
