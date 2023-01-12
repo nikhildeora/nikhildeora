@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm NikhilDeora
 
+<img alt="https://content.techgig.com/photo/78460270/5-Tips-for-newbies-to-effectively-learn-programming.jpg" src="dev1.png"/> 
+
 <!--
 **nikhildeora/nikhildeora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
