@@ -3,7 +3,7 @@
 <h1 align="center">😎 About me</h1>
 
 <h2 align="center">Hello 👋, I'm NikhilDeora</h2>
-<h3 align="center">A Full Stack Web Developer from Masai School.</h3>
+<h3 align="center">A Full Stack Web Developer from Masai School with proficiency in JavaScript and React. Problem-solving mindset and the ability to perform well in collaboration.</h3>
 
 <!--
 **nikhildeora/nikhildeora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
